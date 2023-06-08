@@ -1,0 +1,3 @@
+# Project exclude paths
+/goods-service/target/
+/shop-service/target/
